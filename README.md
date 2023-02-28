@@ -2,7 +2,13 @@
 
 <!-- ![short bio](me.png) -->
 
-Hi, This is Nowfel Mashnoor from Nevada, USA. Currently pursing my PhD in the realm of CyberSecurity, specifically the security of IoT. Also, I am exploring the interesing field of TinyML. I am a passionate problem solver, backend developer and DevOps engineer. I love to explore and learn about new things.
+Hey there, folks! Nowfel Mashnoor here, calling from the dazzling state of Nevada, USA! Just wanted to drop a line and let you know that I'm deep in the throes of pursuing my PhD in the exciting realm of CyberSecurity. Specifically, I'm on a mission to keep those pesky hackers at bay and protect the world from any malicious activity targeting the Internet of Things (IoT).
+
+But wait, there's more! I'm also exploring the fascinating world of TinyML, and let me tell you, it's pretty mind-blowing. I mean, who knew that machines could learn and perform complex tasks all on their own, without the need for a big, beefy computer? I sure didn't, until I started diving into this cutting-edge field.
+
+Now, I'm not just a one-trick pony. In addition to my mad cybersecurity skills, I'm also a passionate problem solver, a backend developer, and a DevOps engineer. I love tinkering with technology and learning about new things, because let's face it, the world is changing at breakneck speed, and we all need to keep up if we want to stay ahead of the curve.
+
+So, there you have it, folks. That's a little taste of who I am and what I'm up to. If you want to join me on this wild ride of discovery and innovation, give me a shout! I'm always down for a good chat about all things tech.
 
 ## 👯 Summary
 - Graduate Research Assistant at University of Nevada, Reno (UNR)
