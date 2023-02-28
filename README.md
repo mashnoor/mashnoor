@@ -2,10 +2,10 @@
 
 <!-- ![short bio](me.png) -->
 
-Hi, This is Nowfel Mashnoor from Nevada, USA. I am a passionate problem solver, backend developer and DevOps engineer. I love to explore and learn about new things.
+Hi, This is Nowfel Mashnoor from Nevada, USA. Currently pursing my PhD in the realm of CyberSecurity, specifically the security of IoT. Also, I am exploring the interesing field of TinyML. I am a passionate problem solver, backend developer and DevOps engineer. I love to explore and learn about new things.
 
 ## 👯 Summary
-
+- Graduate Research Assistant at University of Nevada, Reno (UNR)
 - Passionate in coding
 - Excellent reputation for **problem solving ability**
 - Experienced and skilled enough in **Algorithms and Data Structure**
@@ -16,7 +16,7 @@ Hi, This is Nowfel Mashnoor from Nevada, USA. I am a passionate problem solver, 
 ## ⚡ Technologies
 
 Talk to me about:
-
+- Machine Learning using **TensorFlow, Keras, Scikit-Learn, PyTorch, TinyML**.
 - Backend development using **Django, Asyncio, Flask, Gin**, Sanic, FastAPI.
 - Language expertise in **Python, C/C++, Java, Go**.
 - Making for **Relational Database Management Systems** (MySQL, PostgreSQL), MongoDB.
